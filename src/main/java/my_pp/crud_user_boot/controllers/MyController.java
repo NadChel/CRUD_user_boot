@@ -16,7 +16,7 @@ public class MyController {
         this.userService = userService;
     }
 
-    @RequestMapping
+    @RequestMapping("/")
     public String showUsers(Model model) {
         userService.setShowUsersModel(model);
         return "users";
