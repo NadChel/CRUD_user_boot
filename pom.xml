@@ -11,7 +11,6 @@
     <groupId>my_pp</groupId>
     <artifactId>CRUD_user_boot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
     <name>CRUD_user_boot</name>
     <description>CRUD_user_boot</description>
     <properties>
