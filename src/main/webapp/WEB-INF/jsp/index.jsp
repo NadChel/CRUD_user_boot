@@ -4,9 +4,9 @@
 <html>
 <head>
     <title>Users Database</title>
-    <link rel="icon" href="../static/favicon.ico"/>
+    <link rel="icon" href="favicon.ico"/>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
-    <link href='../static/users-style-sheet.css' rel='stylesheet'>
+    <link href='users-style-sheet.css' rel='stylesheet'>
 </head>
 <body>
 <div class="table-and-heading">
