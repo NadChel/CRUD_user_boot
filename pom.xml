@@ -56,13 +56,13 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-actuator</artifactId>
         </dependency>
-<!--*********************** JSP/JSTL-ависимости из не-Бут CRUD_user'а ********************************-->
-                <dependency>
-                    <groupId>jakarta.servlet</groupId>
-                    <artifactId>jakarta.servlet-api</artifactId>
-                    <version>6.0.0</version>
-                    <scope>provided</scope>
-                </dependency>
+<!--****************************************** JSP/JSTL ********************************************-->
+<!--                <dependency>-->
+<!--                    <groupId>jakarta.servlet</groupId>-->
+<!--                    <artifactId>jakarta.servlet-api</artifactId>-->
+<!--                    <version>6.0.0</version>-->
+<!--                    <scope>provided</scope>-->
+<!--                </dependency>-->
 
                 <dependency>
                     <groupId>jakarta.servlet.jsp.jstl</groupId>
@@ -71,12 +71,12 @@
                     <scope>provided</scope>
                 </dependency>
 
-                <dependency>
-                    <groupId>jakarta.servlet.jsp</groupId>
-                    <artifactId>jakarta.servlet.jsp-api</artifactId>
-                    <version>3.1.1</version>
-                    <scope>provided</scope>
-                </dependency>
+<!--                <dependency>-->
+<!--                    <groupId>jakarta.servlet.jsp</groupId>-->
+<!--                    <artifactId>jakarta.servlet.jsp-api</artifactId>-->
+<!--                    <version>3.1.1</version>-->
+<!--                    <scope>provided</scope>-->
+<!--                </dependency>-->
 
                 <dependency>
                     <groupId>org.glassfish.web</groupId>
