@@ -19,7 +19,7 @@ public class MyController {
     @RequestMapping("/")
     public String showUsers(Model model) {
         userService.setShowUsersModel(model);
-        return "users";
+        return "index";
     }
 
     @RequestMapping("/add")
