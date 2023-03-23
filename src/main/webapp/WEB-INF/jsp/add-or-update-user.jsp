@@ -4,9 +4,9 @@
 <html>
 <head>
     <title>User Info</title>
-    <link rel="icon" href="/favicons/favicon.ico"/>
+    <link rel="icon" href="favicon.ico"/>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
-    <link href="/stylesheets/users-style-sheet.css" rel="stylesheet">
+    <link href="users-style-sheet.css" rel="stylesheet">
 </head>
 <body>
 <div class="forms-and-heading">
